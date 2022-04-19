@@ -1,0 +1,189 @@
+/* Global Styles */
+
+h1 {
+    font-family: 'New York Large';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 108px;
+}
+
+/* Homepage */
+
+.container-fluid {
+    position: absolute;
+    width: 1850px;
+    height: 62px;
+    left: 74px;
+    top: 44px;
+    z-index: 1;
+}
+
+.navbar-brand {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+}
+
+.nav-items {
+    position: absolute;
+    width: 544.96px;
+    height: 44px;
+    left: 294px;
+    top: 13px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+}
+
+.AboutUs {
+    position: absolute;
+    left: 81.11%;
+    right: 2.74%;
+    top: 0%;
+    bottom: 0%;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+}
+
+.Jurnal {
+    position: absolute;
+    left: 52.66%;
+    right: 30.9%;
+    top: 0%;
+    bottom: 0%;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+}
+
+.Womens {
+    position: absolute;
+    left: 24.77%;
+    right: 59.39%;
+    top: 0%;
+    bottom: 0%;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+}
+
+.Mens {
+    position: absolute;
+    left: 2.75%;
+    right: 87.23%;
+    top: 0%;
+    bottom: 0%;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+}
+
+.navbar-logo {
+    position: absolute;
+    width: 91.56px;
+    height: 36.26px;
+    left: 0px;
+    top: 1px;
+}
+
+.line {
+    position: absolute;
+    width: 21px;
+    height: 0px;
+    left: 1620px;
+    top: 11px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    transform: rotate(90deg);
+}
+
+.search{
+    position: absolute;
+    width: 14px;
+    height: 17px;
+    right: 240px;
+    top: 20px;
+}
+
+.login {
+position: absolute;
+width: 40px;
+height: 19px;
+left: 1360px;
+
+
+/* Navigation */
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 120%;
+/* or 19px */
+letter-spacing: 0.02em;
+}
+
+.mainpage-background-half {
+    position: absolute;
+    width: 960px;
+    height: 1100px;
+    left: 960px;
+    top: 0px;
+}
+
+.title-main-page {
+    position: absolute;
+    width: 681px;
+    height: 216px;
+    left: 75px;
+    top: 346px;
+}
+
+.sub-title-main-page {
+    position: absolute;
+    width: 437px;
+    height: 87px;
+    left: 76px;
+    top: 854px;
+
+    font-family: 'New York Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 144%;
+    color: #6A6161;
+}
+
+.year-model {
+    position: absolute;
+    width: 61px;
+    height: 61px;
+    left: 80px;
+    top: 1000px;
+}
+
+.cart-circle {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    right: 40px;
+    top: 5px;
+}
